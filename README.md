@@ -1,24 +1,72 @@
-# 💫 About Me:
-As a dedicated Data Scientist with a strong aspiration to become an MLops Engineer, I'm driven by my passion for uncovering hidden patterns and making valuable connections across various domains. My expertise lies in bridging industries, diverse backgrounds, and cross-sector applications to reveal meaningful correlations. I possess a solid technical foundation in databases and machine learning, complemented by an academic background in mathematics, engineering, and statistics. My forte lies in crafting innovative algorithms that address intricate business challenges, all while ensuring effective communication with stakeholders.<br><br>Throughout my graduate studies, I actively took on leadership roles, including mentoring undergraduate students. During a service year, I led a dynamic team of statisticians in the analysis of data collected during a 2018 camp. I'm eager to explore new opportunities in Data Science and Machine Learning, be it full-time roles or contract positions, where I can apply and leverage my expertise.<br><br>Feel free to reach out to me via email at chibuezeaugustine23@gmail.com<br><br>Key Skills:<br><br>-Data Science<br>-AWS Cloud Engineering<br>-Machine Learning<br>-Mathematical Modeling<br>-Statistics<br>-Database Management<br>-Algorithm Development<br>-Leadership<br>-Mentorship<br>-Tableau<br>-Python (scikit-learn, NumPy, SciPy, pandas)<br>-Excel<br>-Linux
+# Chibueze Augustine Chidera 👨‍💻
 
+> Machine Learning Engineer & Data Scientist specializing in LLMs and Cloud Infrastructure
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/austin_mccoy123/profilecard/?igsh=MXg3amdlbGQ1c3dkNg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/augustine-chibueze-c/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com) 
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:chibuezeaugustine23@gmail.com)
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange)](https://www.credly.com/badges/199f10e9-bd0c-4d0f-9283-05c4dd5bfd46/public_url)
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=austinLorenzMccoy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=austinLorenzMccoy&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=austinLorenzMccoy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## About Me 🚀
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+I'm a Machine Learning Engineer passionate about building intelligent systems that solve real-world problems. Currently working at Prognoz.ai, I specialize in developing and deploying machine learning models with a focus on Large Language Models (LLMs) and cloud infrastructure.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=austinLorenzMccoy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### What I Do 🔭
+
+- 🤖 Design and implement end-to-end ML pipelines
+- 🔍 Develop RAG systems using LangChain and vector databases
+- ⚡ Optimize LLM performance through sophisticated prompt engineering
+- 🚀 Deploy ML solutions on AWS infrastructure
+- 📊 Create data-driven insights and visualizations
+
+## Tech Stack 💻
+
+### Machine Learning & AI
+- **Frameworks:** TensorFlow, Scikit-learn, LangChain, HuggingFace Transformers
+- **LLM Tools:** OpenAI API, Vector Databases (Pinecone, Weaviate)
+- **MLOps:** MLflow, DVC, Apache Airflow
+
+### Programming & Development
+- **Languages:** Python, R, SQL
+- **Cloud:** AWS Services
+- **DevOps:** Docker, Git, CI/CD, GitHub Actions
+- **Visualization:** Dash, Matplotlib, Seaborn
+
+## Featured Projects 🌟
+
+*[Coming soon - I'm currently organizing my projects repository]*
+
+## Professional Journey 🎯
+
+- **Machine Learning Engineer** @ Prognoz.ai (2023-Present)
+  - Implementing RAG systems and optimizing LLM performance
+  - Building custom fine-tuned language models
+  
+- **Creative Story and Research Lead** @ Guereza Animation (2020-2023)
+  - Led data-driven audience analysis
+  - Integrated LLM-powered content generation tools
+
+## Community Involvement 🤝
+
+- Technical Coordinator @ "Not Too Young to Code" Program
+- Community Lead @ DataNerds
+- Professional Member @ Professional Statisticians Society of Nigeria (PSSN)
+
+## Certifications & Education 📚
+
+- 🎓 Foundation of Generative AI (Udacity)
+- ☁️ AWS Certified Cloud Practitioner
+- 📊 WorldQuant University Applied Data Science Lab
+- 📈 Google Data Analytics Certification
+- 🎓 B.Sc. Statistics, University of Ibadan
+
+## Let's Connect! 🤝
+
+I'm always interested in collaborating on innovative ML/AI projects or discussing the latest developments in the field. Feel free to reach out!
+
+- 📧 Email: chibuezeaugustine23@gmail.com
+- 💼 LinkedIn: [[Connect with me](https://www.linkedin.com/in/augustine-chibueze-c/)]
+- 🌐 DagsHub: [[View my work](https://dagshub.com/austinLorenzMccoy)]
 
 ---
-[![](https://visitcount.itsvg.in/api?id=austinLorenzMccoy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*"Data is not just data. It's a story waiting to be told."*
