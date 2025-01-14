@@ -8,7 +8,7 @@
 
 ## About Me 🚀
 
-I'm a Machine Learning Engineer passionate about building intelligent systems that solve real-world problems. Currently working at Prognoz.ai, I specialize in developing and deploying machine learning models with a focus on Large Language Models (LLMs) and cloud infrastructure.
+I'm a Machine Learning Engineer passionate about building intelligent systems that solve real-world problems.  I specialize in developing and deploying machine learning models with a focus on Large Language Models (LLMs) and cloud infrastructure.
 
 ### What I Do 🔭
 
