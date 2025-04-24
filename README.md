@@ -31,9 +31,6 @@ I'm a Machine Learning Engineer passionate about building intelligent systems th
 - **DevOps:** Docker, Git, CI/CD, GitHub Actions
 - **Visualization:** Dash, Matplotlib, Seaborn
 
-## Featured Projects 🌟
-
-*[Coming soon - I'm currently organizing my projects repository]*
 
 ## Professional Journey 🎯
 
