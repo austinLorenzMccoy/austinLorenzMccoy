@@ -48,14 +48,6 @@ AI/ML Engineer with over 3 years of experience designing, deploying, and scaling
 
 ---
 
-## Selected Projects
-
-- **Food Adulteration Detection System** [(link)](): Built a data science pipeline using TensorFlow and AWS to detect food adulteration, with CI/CD for scalable analytics.
-- **Network Security Project** [(link)](): Developed an ML system for intrusion detection using TensorFlow and Kubernetes.
-- **Cancer Diagnosis Classification** [(link)](): Created a classification model using TensorFlow, MLflow, and AWS.
-
----
-
 ## Education & Certifications
 
 - **Master of Information Technology (AI Specialization)**  
