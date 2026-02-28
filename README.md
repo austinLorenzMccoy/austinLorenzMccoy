@@ -1,95 +1,197 @@
-# Chibueze Augustine Chidera 👨‍💻
+<div align="center">
 
-> AI/ML Engineer | Data Scientist specializing in MLOps, Cloud Infrastructure & LLMs
+```
+╔═══════════════════════════════════════════════════════════════╗
+║     CHIBUEZE AUGUSTINE CHIDERA · AI/ML ENGINEER              ║
+║     Building intelligent systems that scale.                  ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/augustine-chibueze-c/) 
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:chibuezeaugustine23@gmail.com)
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange)](https://www.credly.com/badges/199f10e9-bd0c-4d0f-9283-05c4dd5bfd46/public_url)
-[![DagsHub](https://img.shields.io/badge/DagsHub-Profile-green)](https://dagshub.com/austinLorenzMccoy)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI%2FML+Engineer+%7C+MLOps+Architect;LLMs+%7C+Cloud+Infrastructure+%7C+RAG+Systems;Building+Production-Grade+AI+at+Scale" alt="Typing SVG" />
 
-## Lagos, Nigeria | chibuezeaugustine23@gmail.com  
-GitHub: [github.com/austinLorenzMccoy](https://github.com/austinLorenzMccoy) | LinkedIn: [augustine-chibueze-c](https://www.linkedin.com/in/augustine-chibueze-c/) | DagsHub: [dagshub.com/austinLorenzMccoy](https://dagshub.com/austinLorenzMccoy)
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustine-chibueze-c/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chibuezeaugustine23@gmail.com)
+[![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/199f10e9-bd0c-4d0f-9283-05c4dd5bfd46/public_url)
+[![DagsHub](https://img.shields.io/badge/DagsHub-Profile-3EAF7C?style=for-the-badge&logo=github&logoColor=white)](https://dagshub.com/austinLorenzMccoy)
 
-## Professional Summary
+<img src="https://komarev.com/ghpvc/?username=austinLorenzMccoy&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
 
-AI/ML Engineer with over 3 years of experience designing, deploying, and scaling machine learning systems in production environments. Proficient in Python, Docker, Kubernetes, and AWS, with a strong focus on MLOps pipelines, CI/CD automation, and cloud-based infrastructure. Adept at transforming data science models into robust, enterprise-grade solutions, with expertise in Airflow, MLflow, and API integrations. Passionate about building scalable AI systems and delivering business value through technical innovation.
-
----
-
-## Professional Experience
-
-### AI Engineer – HitoAI Limited (Remote, Dublin, Ireland)  
-*May 2025 – Present*
-- Designed MLOps pipelines for LLMs, integrating LangChain, FAISS, and OpenAI APIs for scalable document processing.
-- Deployed production-grade AI services using Python, Docker, and Kubernetes on AWS, achieving 99.9% uptime.
-- Automated CI/CD workflows with GitHub Actions, reducing deployment cycles by 25%.
-- Collaborated with data scientists to productionize models, ensuring auditability, versioning, and data security.
-- Developed API integrations for cloud systems, enhancing client accessibility.
-
-### Associate Machine Learning Engineer – Prognoz.ai (Remote, Ohio, USA)  
-*Oct 2023 – Nov 2024*
-- Built end-to-end ML systems for retail analytics using TensorFlow, Scikit-learn, and Airflow.
-- Engineered scalable data pipelines with MLflow and DVC, optimizing training and inference.
-- Managed Linux-based cloud environments (AWS, GCP), improving reliability by 20%.
-- Implemented RAG architectures and vector database integrations (MongoDB, FAISS).
-- Supported proof-of-concept ML systems, facilitating client requirement gathering.
-
-### Technical Lead – Interview Prep Chatbot (ALX Connect MVP)  
-*2024*
-- Led development of a Llama 3.2-powered chatbot, deployed on AWS with Kubernetes.
-- Designed data pipelines with Airflow for robust model performance and monitoring.
-
-### Creative Story & Research Lead – Guereza Animation  
-*Apr 2020 – Oct 2023*
-- Developed Python-based data pipelines for audience analysis, driving 30% engagement growth.
-- Automated content generation using LLMs, integrating APIs for seamless processing.
+</div>
 
 ---
 
-## Education & Certifications
+## `> whoami`
 
-- **Master of Information Technology (AI Specialization)**  
-  Miva Open University (Sep 2026, In Progress)
-- **B.Sc. Statistics**  
-  University of Ibadan (2014 – 2018)
-- **Diploma in Statistics**  
-  Yaba College of Technology (2011 – 2013)
-- **Foundation of Generative AI Nanodegree** (2025)
-- **AWS Certified Cloud Practitioner** (2023)
-- **Google Data Analytics** (2022)
-- **WorldQuant University Applied Data Science Lab** (2023)
-- **Agentic AI Engineer Training Program** (2025)
+```python
+class AugustineChidera:
+    def __init__(self):
+        self.name        = "Chibueze Augustine Chidera"
+        self.role        = "AI/ML Engineer · Data Scientist"
+        self.location    = "Lagos, Nigeria 🇳🇬"
+        self.experience  = "3+ years in production ML systems"
+        self.currently   = "AI Engineer @ HitoAI Limited (Dublin, Ireland 🇮🇪)"
+        self.focus       = ["MLOps", "LLMs", "Cloud Infrastructure", "RAG"]
+        self.quote       = "Data is not just data. It's a story waiting to be told."
 
----
-
-## Skills
-
-- **Programming:** Python, SQL, R
-- **ML & MLOps:** TensorFlow, Scikit-learn, MLflow, DVC, Airflow, RAG
-- **Cloud & DevOps:** AWS, Google Cloud, Docker, Kubernetes, Git, GitHub CI/CD, Linux Administration
-- **Data Tools:** Pandas, NumPy, PostgreSQL, MongoDB, FAISS, REST APIs
-- **Other:** LangChain, OpenAI API, FastAPI, Streamlit, Data Pipeline Design
+    def __str__(self):
+        return f"Shipping AI from Lagos to the World 🌍"
+```
 
 ---
 
-## Leadership & Community
+## `> tech_stack --full`
 
-- Community Lead – DataNerds
-- President – NYSC Kwara Statistical Analysis Team (2018)
-- PRO – FASSA UI
-- Member – Professional Statistician Society of Nigeria (PSSN)
+<div align="center">
+
+**[ CORE ML / AI ]**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0064A5?style=flat-square&logo=meta&logoColor=white)
+
+**[ MLOPS & ORCHESTRATION ]**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**[ CLOUD & DEVOPS ]**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**[ DATA & APIS ]**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
 
 ---
 
-## Let's Connect! 🤝
+## `> career --timeline`
 
-I'm always interested in collaborating on innovative ML/AI projects or discussing the latest developments in the field.  
-- 📧 Email: chibuezeaugustine23@gmail.com  
-- 💼 LinkedIn: [augustine-chibueze-c](https://www.linkedin.com/in/augustine-chibueze-c/)  
-- 🌐 DagsHub: [dagshub.com/austinLorenzMccoy](https://dagshub.com/austinLorenzMccoy)
+```
+2025 – NOW  ┃  🏢 AI Engineer @ HitoAI Limited · Dublin, Ireland (Remote)
+            ┃  → MLOps pipelines for LLMs (LangChain + FAISS + OpenAI)
+            ┃  → 99.9% uptime on Kubernetes/AWS production deployments
+            ┃  → 25% faster deployments via GitHub Actions CI/CD
+
+2023 – 2024 ┃  🏢 Assoc. ML Engineer @ Prognoz.ai · Ohio, USA (Remote)
+            ┃  → End-to-end ML systems for retail analytics
+            ┃  → RAG architectures + vector DB integrations
+            ┃  → 20% improved cloud reliability on AWS/GCP
+
+2024        ┃  🤖 Technical Lead — ALX Connect Interview Prep Chatbot
+            ┃  → Llama 3.2 chatbot on AWS + Kubernetes
+            ┃  → Airflow data pipelines for model monitoring
+
+2020 – 2023 ┃  🎨 Creative & Research Lead @ Guereza Animation
+            ┃  → Python pipelines for audience analytics
+            ┃  → 30% engagement growth via LLM-powered automation
+```
 
 ---
 
-*"Data is not just data. It's a story waiting to be told."*
+## `> pinned_projects --featured`
+
+<div align="center">
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🍎 **[food-risk-detection-ml](https://github.com/austinLorenzMccoy/food-risk-detection-ml)** | ML platform detecting health risks in food products via adulteration analysis | `Jupyter` `Python` `Scikit-learn` |
+| 📈 **[QuantumFlow AI Lab](https://github.com/austinLorenzMccoy/QuantumFlow_AI_Lab)** | AI-driven crypto trading strategies with LLMs + Reinforcement Learning | `Python` `LLMs` `RL` |
+| 🌾 **[agriPreserve](https://github.com/austinLorenzMccoy/agripreserve)** | Post-harvest loss analytics + storage recommendations for Nigerian farmers | `TypeScript` `APIs` |
+| 💳 **[credit-default-prediction](https://github.com/austinLorenzMccoy/credit-default-prediction)** | Neural-network-based credit risk API for financial institutions | `Jupyter` `TensorFlow` |
+| 🧬 **[cancer-diagnosis-classification](https://github.com/austinLorenzMccoy/cancer-diagnosis-classification)** | CNN classifier for cancer diagnosis from medical imaging data | `Python` `Deep Learning` |
+
+</div>
+
+---
+
+## `> github --stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=austinLorenzMccoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinLorenzMccoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=austinLorenzMccoy&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" />
+
+</div>
+
+---
+
+## `> certifications --verified`
+
+```
+✅  AWS Certified Cloud Practitioner       · 2023
+✅  Google Data Analytics Certificate      · 2022
+✅  WorldQuant Applied Data Science Lab    · 2023
+✅  Foundation of Generative AI Nanodegree · 2025
+✅  Agentic AI Engineer Training Program   · 2025
+🎓  M.IT — AI Specialization, Miva Open University (In Progress · 2026)
+```
+
+---
+
+## `> education --background`
+
+```
+🎓  M.IT  |  AI Specialization     |  Miva Open University          |  2026 (In Progress)
+🎓  B.Sc. |  Statistics            |  University of Ibadan          |  2014 – 2018
+🎓  Dip.  |  Statistics            |  Yaba College of Technology    |  2011 – 2013
+```
+
+---
+
+## `> community --roles`
+
+```
+🌐  Community Lead           →  DataNerds
+🏅  President                →  NYSC Kwara Statistical Analysis Team (2018)
+📢  PRO                      →  FASSA UI
+🏛️  Member                   →  Professional Statistician Society of Nigeria (PSSN)
+```
+
+---
+
+## `> connect --now`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────┐
+│  Open to: Collaboration · AI/ML Roles · Consulting  │
+│  Available for: Remote work globally 🌍             │
+└─────────────────────────────────────────────────────┘
+```
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustine-chibueze-c/)
+[![Email](https://img.shields.io/badge/Send_Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chibuezeaugustine23@gmail.com)
+[![DagsHub](https://img.shields.io/badge/Follow_on-DagsHub-3EAF7C?style=for-the-badge)](https://dagshub.com/austinLorenzMccoy)
+
+<br/>
+
+*`"Data is not just data. It's a story waiting to be told."`*
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=80&section=footer&fontSize=0" />
+
+</div>
