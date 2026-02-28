@@ -126,8 +126,8 @@ class AugustineChidera:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=austinLorenzMccoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinLorenzMccoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=austinLorenzMccoy&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=austinLorenzMccoy&theme=tokyonight" />
 
 <br/>
 
